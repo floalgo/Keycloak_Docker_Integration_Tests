@@ -1,0 +1,16 @@
+{
+  "name": "docker-workflow",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "dependencies": {
+    "keycloak-backend": "^2.0.1"
+  },
+  "main": "index.js",
+  "directories": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
